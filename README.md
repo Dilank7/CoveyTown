@@ -45,3 +45,8 @@ Create a `.env` file in the `frontend` directory, with the line: `REACT_APP_TOWN
 
 In the `frontend` directory, run `npm start` (again, you'll need to run `npm install` the very first time). After several moments (or minutes, depending on the speed of your machine), a browser will open with the frontend running locally.
 The frontend will automatically re-compile and reload in your browser if you change any files in the `frontend/src` directory.
+
+
+### For Spotify Features
+
+Make a spotify developers account (Needs spotify premium) at https://developer.spotify.com/ then create an app with the Website and the Redirect URL as as http://localhost:3000/
